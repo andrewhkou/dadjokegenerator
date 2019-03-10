@@ -1,33 +1,84 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=Bangers:regular,bold,light&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Barlow:regular,bold,light&subset=latin,latin-ext');
+
+
+.generator {
+  font-family: "Bangers";
+  background: #00FF00;
+  width: 100%;
+  height: 100vh;
+  padding-top: 8%;
+  margin-bottom: auto;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  justify-content: center;
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.joke-title {
+    color: #D2691E;
+    width: 100%;
+    height: 100%;
+    font-size: 10vh;
+    padding-bottom: 10vh;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.joke {
+  font-family: "Barlow";
+  width: 50%;
+  height: 10vh;
+  font-size: 5vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.next {
+  margin-left: 10%;
+  width: 30%;
+  height: 8%;
+  margin-left: 10%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.prev {
+  margin-right: 10%;
+  width: 30%;
+  height: 8%;
+}
+
+.clicky {
+  width: 40%;
+  margin-top: 5%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  justify-content: center;
+}
+
+.LMAO {
+  display: inline-block;
+  border-radius: 80%;
+  color: blue;
+}
+
+.HAHA {
+}
+
+.text{
+  display: inline-block;
+}
+
+.header {
+  display: inline-block;
 }
