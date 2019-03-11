@@ -1,5 +1,5 @@
 {
-  "main.css": "/dadjokegenerator/static/css/main.b0fd3a25.chunk.css",
+  "main.css": "/dadjokegenerator/static/css/main.e2bb25dc.chunk.css",
   "main.js": "/dadjokegenerator/static/js/main.09f16bd2.chunk.js",
   "main.js.map": "/dadjokegenerator/static/js/main.09f16bd2.chunk.js.map",
   "runtime~main.js": "/dadjokegenerator/static/js/runtime~main.b3f75bb8.js",
@@ -7,7 +7,7 @@
   "static/js/2.99dfc4d0.chunk.js": "/dadjokegenerator/static/js/2.99dfc4d0.chunk.js",
   "static/js/2.99dfc4d0.chunk.js.map": "/dadjokegenerator/static/js/2.99dfc4d0.chunk.js.map",
   "index.html": "/dadjokegenerator/index.html",
-  "precache-manifest.448814f4b1b119f06d0bfea1342ae29b.js": "/dadjokegenerator/precache-manifest.448814f4b1b119f06d0bfea1342ae29b.js",
+  "precache-manifest.50491033d56c238d986e8b905ed236b0.js": "/dadjokegenerator/precache-manifest.50491033d56c238d986e8b905ed236b0.js",
   "service-worker.js": "/dadjokegenerator/service-worker.js",
-  "static/css/main.b0fd3a25.chunk.css.map": "/dadjokegenerator/static/css/main.b0fd3a25.chunk.css.map"
+  "static/css/main.e2bb25dc.chunk.css.map": "/dadjokegenerator/static/css/main.e2bb25dc.chunk.css.map"
 }

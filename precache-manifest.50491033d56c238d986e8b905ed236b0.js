@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/dadjokegenerator/static/js/runtime~main.b3f75bb8.js"
   },
   {
-    "revision": "d2498a7caefaab961fa1",
+    "revision": "fa70cd56352d44ce6534",
     "url": "/dadjokegenerator/static/js/main.09f16bd2.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/dadjokegenerator/static/js/2.99dfc4d0.chunk.js"
   },
   {
-    "revision": "d2498a7caefaab961fa1",
-    "url": "/dadjokegenerator/static/css/main.b0fd3a25.chunk.css"
+    "revision": "fa70cd56352d44ce6534",
+    "url": "/dadjokegenerator/static/css/main.e2bb25dc.chunk.css"
   },
   {
-    "revision": "0bf5202bc45d1700c8f18d814376b925",
+    "revision": "0cc6d5526beb012b6922886ef3911ae5",
     "url": "/dadjokegenerator/index.html"
   }
 ];
